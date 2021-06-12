@@ -1,0 +1,235 @@
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\HRM.exe.config
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\HRM.exe
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\HRM.pdb
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.exe
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.pdb
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\JDragControl.dll
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\FlatButton.dll
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\JGradient Panel.dll
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\JImageButton.dll
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\JMaterialTextbox.dll
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\JMetroTextBox.dll
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\JThinButton.dll
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.frmLogin.resources
+C:\Users\student\source\repos\ADO_Final_Project\HRM\bin\Debug\aa\HRM.resources.dll
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.frmDashboard.resources
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\HRM.frmDashboard.aa.resources
+C:\Users\student\source\repos\ADO_Final_Project\HRM\obj\Debug\aa\HRM.resources.dll
+H:\ADO_Final_Project\HRM\bin\Debug\HRM.exe.config
+H:\ADO_Final_Project\HRM\bin\Debug\HRM.exe
+H:\ADO_Final_Project\HRM\bin\Debug\HRM.pdb
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.csprojAssemblyReference.cache
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.frmLogin.resources
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.Properties.Resources.resources
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CopyComplete
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.exe
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.pdb
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDashboard.resources
+H:\ADO_Final_Project\HRM\bin\Debug\FontAwesome.Sharp.dll
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmMain.resources
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmMain2.resources
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddEmployee.resources
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDesignation.resources
+H:\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDepartment.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\HRM.exe.config
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\HRM.exe
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\HRM.pdb
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\FlatButton.dll
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\JDragControl.dll
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\JGradient Panel.dll
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\JImageButton.dll
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\JMaterialTextbox.dll
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\JMetroTextBox.dll
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\bin\Debug\JThinButton.dll
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.csprojAssemblyReference.cache
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.frmLogin.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddEmployee.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDashboard.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDepartment.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDesignation.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmMain.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmMain2.resources
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.exe
+C:\Users\student\OneDrive\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.pdb
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\HRM.exe.config
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\HRM.exe
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\HRM.pdb
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\stdole.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.EmpList.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.frmLogin.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddAllowance.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddEmployee.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDepartment.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDesignation.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmListEmployee.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmMain.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmMain2.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmManageSalary.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmManageSalaryIndividual.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmUpdateEmp.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.exe
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.pdb
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.csprojAssemblyReference.cache
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddCommission.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddDeduction.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmPayslip.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\EntityFramework.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\EntityFramework.xml
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmLeaveType.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\HRM.exe.config
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\HRM.exe
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\HRM.pdb
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\EntityFramework.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\stdole.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\EntityFramework.xml
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.csprojAssemblyReference.cache
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.EmpList.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.frmLogin.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmAddAllowance.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmAddCommission.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmAddDeduction.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmAddEmployee.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmDashboard.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmDepartment.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmDesignation.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmLeaveType.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmListEmployee.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmMain.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmMain2.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmManageSalary.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmManageSalaryIndividual.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmPayslip.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.Views.frmUpdateEmp.resources
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.exe
+C:\Users\Mahmud Sabuj\Documents\HumanResourceManagement\HRM\obj\Debug\HRM.pdb
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.frmSignup.resources
+C:\Users\Mahmud Sabuj\Documents\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmLeaveApplication.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\HRM.exe.config
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\HRM.exe
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\HRM.pdb
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\EntityFramework.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\stdole.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\EntityFramework.xml
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.csprojAssemblyReference.cache
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.EmpList.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.frmLogin.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.frmSignup.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddAllowance.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddCommission.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddDeduction.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmAddEmployee.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDepartment.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmDesignation.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmLeaveApplication.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmLeaveType.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmListEmployee.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmMain.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmMain2.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmManageSalary.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmManageSalaryIndividual.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmPayslip.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.Views.frmUpdateEmp.resources
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.exe
+C:\Users\Mahmud Sabuj\Documents\1258657_Mahmud_Sabuj\ADO_Final_Project\HRM\obj\Debug\HRM.pdb
