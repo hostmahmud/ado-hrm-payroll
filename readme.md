@@ -1,6 +1,9 @@
 
 =================Project On HRM===================
 
+# HRM-PAYROLL
+# Build with C#, ADO.NET, ENTITY FRAMEWORK, WINDOWS FORM
+# Build with C#, ADO.NET, ENTITY FRAMEWORK, WINDOWS FORM, SQL SERVER
 
 To change database data source, navigate to "solution->HRM->Classes->Connection.cs" file and replace data source.
 
